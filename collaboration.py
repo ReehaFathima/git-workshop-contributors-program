@@ -7,8 +7,8 @@
 #  Add your function below 
 # -----------------------------
 
-def amal():
-    print(" Hello everyone! This is Amal — let's make Git fun together!")
+def reeha():
+    print(" Hello everyone! This is Reeha — let's make Git fun together!")
 
 # Example:
 # def alan():
@@ -18,7 +18,7 @@ def amal():
 #  Call your function below 
 # -----------------------------
 
-amal()
+reeha()
 # alan()
 
 print("\n Program executed successfully! Great work, everyone!")
